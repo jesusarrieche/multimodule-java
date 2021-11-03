@@ -1,0 +1,6 @@
+rootProject.name = 'multimodule'
+include 'services'
+include 'configuration'
+include 'web'
+include 'persistence'
+
